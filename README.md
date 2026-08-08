@@ -263,37 +263,6 @@ A food menu and order-form web application, currently in active development.
 
 <br>
 
----
-
-## 📜 Certifications
-
-**Google & Kaggle**
-
-[![Google & Kaggle](https://img.shields.io/badge/5--Day_Gen_AI_Intensive-Agents_Course-5A189A?style=for-the-badge&logo=google&logoColor=white)]()
-
-<!-- AWS: add badge here only if/when certified, e.g.
-[![AWS](https://img.shields.io/badge/AWS-Certification_Name-7B2CBF?style=for-the-badge&logo=amazonaws&logoColor=white)]()
--->
-<!-- Oracle: add badge here only if/when certified -->
-<!-- NPTEL: add badge here only if/when certified -->
-<!-- Cisco: add badge here only if/when certified -->
-
-<br>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Add_Your_Handle-5A189A?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ADD_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Add_Your_Handle-7B2CBF?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/ADD_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Add_Your_Handle-3C096C?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ADD_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Add_Your_Handle-240046?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ADD_USERNAME)
-
-</div>
-
-<br>
 
 ---
 
